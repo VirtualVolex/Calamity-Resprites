@@ -1,1 +1,21 @@
-# Calamity-Resprites
+# Calamity Resprites
+
+A small graphics add-on for the Calamity Mod aimed at respriting several assets, giving them a much deserved face lift. The goal of this mod is to stay faithful to the identity of the Calamity Mod designs as they are now, not changing the overall aesthetic, but instead refining existing sprites with additional details and polish.
+
+Calamity Resprites workshop page:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3755824550
+
+## Current/future resprites
+
+This mod launched with a resprite of the Dragon of Rebirth, Yharon, and I plan to continue updating other bosses and assets that I feel would benefit from a visual refresh.
+
+If you'd like to contribute your own resprites, please open a **New Issue** on the GitHub repository and attach the relevant sprite sheet. In your submission, please confirm that the artwork was created by you and that you grant permission for it to be included in this mod. All accepted contributors will be credited accordingly.
+
+Please note that submitting a sprite does not guarantee it will be included. The final decision on whether a submission fits the project's goals and artistic direction rests with me.
+
+## Support the Calamity Dev Team
+
+The Calamity Dev Team is working hard to bring greater consistency to the development of the largest Terraria mod to date, while overhauling content to uphold the current team's standards. Please do not use this addon as a reason to criticize or throw shade at the developers. This project exists because of the incredible work they've put into Calamity over the years, please show them your support.
+
+Calamity Mod workshop page:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072
