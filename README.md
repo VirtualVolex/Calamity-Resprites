@@ -9,7 +9,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3755824550
 
 This mod launched with a resprite of the Dragon of Rebirth, Yharon, and I plan to continue updating other bosses and assets that I feel would benefit from a visual refresh.
 
-If you'd like to contribute your own resprites, please open a **New Issue** on the GitHub repository and attach the relevant sprite sheet. In your submission, please confirm that the artwork was created by you and that you grant permission for it to be included in this mod. All accepted contributors will be credited accordingly.
+If you'd like to suggest a resprite or contribute your own resprites, please start a new **Discussion**, label it "Ideas", and attach the relevant sprite sheet. In your submission, please confirm that the artwork was created by you and that you grant permission for it to be included in this mod (**If this is missing your sprite will not be considered**). All accepted contributors will be credited accordingly.
 
 Please note that submitting a sprite does not guarantee it will be included. The final decision on whether a submission fits the project's goals and artistic direction rests with me.
 
