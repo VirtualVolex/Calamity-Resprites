@@ -15,7 +15,7 @@ Please note that submitting a sprite does not guarantee it will be included. The
 
 ## Support the Calamity Dev Team
 
-The Calamity Dev Team is working hard to bring greater consistency to the development of the largest Terraria mod to date, while overhauling content to uphold the current team's standards. Please do not use this addon as a reason to criticize or throw shade at the developers. This project exists because of the incredible work they've put into Calamity over the years, please show them your support.
+The Calamity Dev Team is working hard to bring greater consistency to the development of the largest Terraria mod to date, while overhauling content to uphold the current team's standards. Please do not use this addon as a reason to criticize or throw shade at the developers. Projects like this are able to exist because of the incredible work they've put into Calamity over the years, please show them your support.
 
 Calamity Mod workshop page:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072
