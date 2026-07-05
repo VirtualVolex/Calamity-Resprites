@@ -5,7 +5,7 @@ A small graphics add-on for the Calamity Mod aimed at respriting several assets,
 Calamity Resprites workshop page:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3755824550
 
-## Current/future resprites
+## Planned/suggested resprites
 
 This mod launched with a resprite of the Dragon of Rebirth, Yharon, and I plan to continue updating other bosses and assets that I feel would benefit from a visual refresh.
 
