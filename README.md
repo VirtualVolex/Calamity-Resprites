@@ -13,6 +13,12 @@ If you'd like to suggest a resprite or contribute your own resprites, please sta
 
 Please note that submitting a sprite does not guarantee it will be included. The final decision on whether a submission fits the project's goals and artistic direction rests with me.
 
+### Resprites:
+
+| Sprite | Entity | Artist |
+| -------- | -------- | -------- |
+| <img width="220" height="177" alt="Yharon" src="https://github.com/user-attachments/assets/137739a8-e87d-4360-80f3-d61d1903cbef" /> | Yharon | Volex |
+
 ## Support the Calamity Dev Team
 
 The Calamity Dev Team is working hard to bring greater consistency to the development of the largest Terraria mod to date, while overhauling content to uphold the current team's standards. Please do not use this addon as a reason to criticize or throw shade at the developers. Projects like this are able to exist because of the incredible work they've put into Calamity over the years, please show them your support.
