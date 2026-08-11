@@ -1,0 +1,12 @@
+C:\Users\brade\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CalamityResprites\bin\Debug\net8.0\CalamityResprites.deps.json
+C:\Users\brade\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CalamityResprites\bin\Debug\net8.0\CalamityResprites.dll
+C:\Users\brade\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CalamityResprites\bin\Debug\net8.0\CalamityResprites.pdb
+C:\Users\brade\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CalamityResprites\obj\Debug\net8.0\CalamityResprites.csproj.AssemblyReference.cache
+C:\Users\brade\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CalamityResprites\obj\Debug\net8.0\CalamityResprites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brade\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CalamityResprites\obj\Debug\net8.0\CalamityResprites.AssemblyInfoInputs.cache
+C:\Users\brade\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CalamityResprites\obj\Debug\net8.0\CalamityResprites.AssemblyInfo.cs
+C:\Users\brade\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CalamityResprites\obj\Debug\net8.0\CalamityResprites.csproj.CoreCompileInputs.cache
+C:\Users\brade\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CalamityResprites\obj\Debug\net8.0\CalamityResprites.dll
+C:\Users\brade\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CalamityResprites\obj\Debug\net8.0\refint\CalamityResprites.dll
+C:\Users\brade\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CalamityResprites\obj\Debug\net8.0\CalamityResprites.pdb
+C:\Users\brade\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\CalamityResprites\obj\Debug\net8.0\ref\CalamityResprites.dll

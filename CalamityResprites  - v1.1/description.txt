@@ -1,0 +1,4 @@
+A small graphics mod aimed to resprite several assets in the Calamity Mod. The goal of this mod is to preserve the identity of the Calamity Mod designs as they are now, all resprites will stay faithful to the original while giving them a much deserved facelift.
+
+Resprites completed:
+- Yharon

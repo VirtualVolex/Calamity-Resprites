@@ -1,0 +1,7 @@
+How to add your own resprite:
+
+1. Copy any entity folder under "/NPCs" and rename it to the entity you wish to resprite *Follow Calamity directory and file names*.
+2. In the new folder you copied, rename the .cs file to the name of your entity.
+3. Upload resprited images (Main resprite and head icon) .png into the folder under the same naming convention as the .cs file.
+4. Open the .cs file and rename all instances of the previous entity to that of your new one.
+5. Once everything is saved you can compile the mod as you would any other and it should work (Make sure all file paths and names match up to that of the fodlers).
